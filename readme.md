@@ -1,6 +1,6 @@
 # Create a VM from a specialized VHD disk
-
-<a href="https://raw.githubusercontent.com/fjuhasz/CustomVM/master/azuredeploy.json" target="_blank">
+"https%3A%2F%2Fraw.githubusercontent.com%2Ffjuhasz%2Fattila%2Fmaster%2Fazuredeploy.json
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ffjuhasz%2FCustomVM%2Fmaster%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
