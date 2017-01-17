@@ -109,7 +109,7 @@
 			"Standard_A11",
 			"Standard_NV6",
 			"Standard_NV24"
-		]
+		],
       "metadata": {
         "description": "Size of the VM"
       }
